@@ -1,0 +1,11 @@
+ID,CAT,SUBCAT,MAINTENANCE
+CO_RF,Components,Road Frames,Yes
+CO_PE,Components,Pedals,No
+CO_WH,Components,Wheels,Yes
+BI_MB,Bikes,Mountain Bikes,Yes
+BI_RB,Bikes,Road Bikes,Yes
+BI_TB,Bikes,Touring Bikes,No
+CL_HE,Clothing,Helmets,No
+CL_JE,Clothing,Jerseys,No
+AC_BC,Accessories,Bike Racks,No
+AC_BT,Accessories,Bottles and Cages,No
